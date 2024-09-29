@@ -1,0 +1,26 @@
+/* global css */
+*{
+    font-style:  10PX;
+    font-weight: 500;
+}
+/* External CSS */
+H3{
+    color: aquamarine;
+}
+/* element selector */
+h4{
+    color: blanchedalmond;
+}
+/* class selector */
+MYCLASS{
+    color: blueviolet;
+
+}
+/* id selector */
+#myid{
+    color: aquamarine;
+}
+/* group selector */
+h5,p{
+    color: azure;
+}
